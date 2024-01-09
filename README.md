@@ -16,4 +16,6 @@ It's generally correct but also kinda buggy and requires more work but maybe tha
 - Copy Server.lua and create a script in ServerScriptService and paste code
 ```
 
+[Documentation but cooler](https://ezicirakoyt.github.io/Basic-Client-Movement-Prediction/)
+
 Boom you are done.
